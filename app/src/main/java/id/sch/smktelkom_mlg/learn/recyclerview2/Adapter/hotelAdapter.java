@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.learn.recyclerview1.Adapter;
+package id.sch.smktelkom_mlg.learn.recyclerview2.Adapter;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -9,8 +9,8 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import id.sch.smktelkom_mlg.learn.recyclerview1.R;
-import id.sch.smktelkom_mlg.learn.recyclerview1.model.hotel;
+import id.sch.smktelkom_mlg.learn.recyclerview2.R;
+import id.sch.smktelkom_mlg.learn.recyclerview2.model.hotel;
 
 
 /**
